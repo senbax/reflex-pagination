@@ -99,6 +99,7 @@ ENV/
 MANIFEST
 __pycache__/
 __pypackages__/
+assets/external/
 build/
 celerybeat-schedule
 celerybeat.pid
